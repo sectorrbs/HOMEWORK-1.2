@@ -98,7 +98,7 @@ const products = [{
 let productsImg = products.filter(img => {
     if (img.photos) {
         if (img.photos.length != 0) {
-            return img
+            return img;
         }
     }
 });
