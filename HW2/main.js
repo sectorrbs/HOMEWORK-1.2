@@ -139,7 +139,7 @@
 //         case '1':
 //             return roubles = 'рубль'
 //     };
-//     return;
+//     retur;
 // };
 
 // alert(`В банк зачислена сумма в размере ${totalMoney} ${getRoubles(totalMoney)}`);
